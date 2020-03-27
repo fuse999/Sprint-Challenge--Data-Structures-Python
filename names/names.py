@@ -17,7 +17,8 @@ duplicates = []  # Return the list of duplicates in this data structure
 
 # duplicates = set(names_1) & set(names_2)
 
-# no set option with BST
+# no set option 
+# with BST
 
 bst = BinarySearchTree("")
 for name_2 in names_2: 
